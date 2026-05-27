@@ -1,4 +1,4 @@
-# Dynamic Form Builder
+# Eulerity FormApp
 
 A take-home project for Eulerity's iOS Developer interview.
 
